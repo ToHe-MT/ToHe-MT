@@ -8,3 +8,5 @@
 ToHe-MT/ToHe-MT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToHe-MT)](https://github.com/ToHe-MT/github-readme-stats)
