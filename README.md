@@ -9,8 +9,5 @@ ToHe-MT/ToHe-MT is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToHe-MT&layout=compact)
-<br>
 <a href="https://app.daily.dev/tohe"><img src="https://api.daily.dev/devcards/v2/W11AWk03nFbs6DYkCchGh.png?type=wide&r=hah" width="652" alt="Theo Millard Tirtawinata's Dev Card"/></a>
-<br>
-<a href="https://app.daily.dev/tohe"><img src="https://api.daily.dev/devcards/v2/W11AWk03nFbs6DYkCchGh.png?type=default&r=hah" width="356" alt="Theo Millard Tirtawinata's Dev Card"/></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToHe-MT&layout=compact)
