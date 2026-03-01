@@ -1,4 +1,4 @@
-Software Engineer focused on end-to-end backend systems — from building services to shipping and keeping them running in production 🚀
+Software Engineer interested and focused on end-to-end backend systems — from building services to shipping and keeping them running in production 🚀
 
 What I work on:
 - 🛠️ Backend development
